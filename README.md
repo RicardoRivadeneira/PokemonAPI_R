@@ -9,7 +9,7 @@ El API v2 de Pokémon es una interfaz de programación de aplicaciones (API) pro
 ## Características del Proyecto
 
 - **Diseño y Navegación:** Utilización de CSS para estilos atractivos y responsivos, e implementación de React Router para una navegación fluida entre diferentes secciones de la aplicación.
-- **Integración de la API:** Uso de peticiones HTTP (con Fetch API o Axios, según se prefiera) para obtener datos de la API de Pokémon.
+- **Integración de la API:** Uso de peticiones HTTP  para obtener datos de la API de Pokémon.
 - **Presentación de Datos:** Los datos de la API se presentan de manera organizada y comprensible en la interfaz de usuario.
 - **Funcionalidades Adicionales:** Implementación de características adicionales según la naturaleza de la API, como sistemas de búsqueda y filtrado.
 
