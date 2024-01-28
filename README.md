@@ -13,6 +13,30 @@ El API v2 de Pokémon es una interfaz de programación de aplicaciones (API) pro
 - **Presentación de Datos:** Los datos de la API se presentan de manera organizada y comprensible en la interfaz de usuario.
 - **Funcionalidades Adicionales:** Implementación de características adicionales según la naturaleza de la API, como sistemas de búsqueda y filtrado.
 
+## Funcionalidades de la Aplicación
+
+Esta aplicación de Pokémon, desarrollada utilizando la API v2 de Pokémon, ofrece una variedad de características y funcionalidades diseñadas para mejorar la experiencia del usuario y facilitar el acceso a una amplia gama de datos sobre Pokémon. A continuación se describen algunas de las funcionalidades clave:
+
+### Búsqueda por Nombre
+- **Filtro de Búsqueda:** Los usuarios pueden buscar Pokémon por nombre utilizando un sistema de búsqueda integrado. Esto permite a los usuarios encontrar rápidamente información sobre sus Pokémon favoritos.
+
+### Datos Detallados de Pokémon
+- **Información Variada:** Cada Pokémon se muestra con una serie de datos detallados, incluyendo su tipo, habilidades, estadísticas y más. Esto proporciona a los usuarios una comprensión profunda de las características de cada Pokémon.
+
+### Diseño Responsivo
+- **Interfaz de Usuario Adaptable:** La aplicación cuenta con un diseño responsivo, asegurando que se vea y funcione bien en una variedad de dispositivos y tamaños de pantalla. Esto garantiza una experiencia de usuario óptima tanto en dispositivos móviles como de escritorio.
+
+### Amplia Gama de Pokémon
+- **Variedad de Pokémon:** Los usuarios tienen acceso a una extensa lista de Pokémon, lo que permite explorar y descubrir una amplia gama de criaturas dentro del universo Pokémon.
+
+### Interfaz Intuitiva
+- **Navegación Fácil y Atractiva:** La aplicación está diseñada con una interfaz de usuario intuitiva, facilitando a los usuarios la navegación y el acceso a las diferentes secciones y características de la aplicación.
+
+---
+
+Estas funcionalidades hacen de esta aplicación una herramienta valiosa y entretenida para los fans de Pokémon, permitiéndoles explorar el mundo de Pokémon de una manera interactiva y educativa.
+
+
 ## Iniciando el Proyecto
 
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
