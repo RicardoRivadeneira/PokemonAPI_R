@@ -1,33 +1,37 @@
 # PokemonApi
 
-## Introducción
+# Pokémon API v2
 
-Este proyecto es una aplicación web que utiliza la API v2 de Pokémon, una interfaz de programación de aplicaciones proporcionada por The Pokémon Company International. La API ofrece acceso a una vasta cantidad de datos del mundo Pokémon, incluyendo información sobre Pokémon, movimientos, tipos, habilidades, y objetos.
+## Descripción
 
-## Elección de la API
+El API v2 de Pokémon es una interfaz de programación de aplicaciones (API) proporcionada por The Pokémon Company International. Permite a los desarrolladores acceder a una gran cantidad de datos relacionados con el mundo Pokémon. Esta API ofrece información sobre Pokémon, movimientos, tipos, habilidades, objetos y más. Con ella, los desarrolladores pueden crear aplicaciones, juegos y servicios web relacionados con Pokémon, como Pokédex digitales, juegos de estrategia, herramientas de análisis competitivo y mucho más. La API v2 de Pokémon brinda a los desarrolladores acceso a una rica base de datos que les permite crear experiencias interactivas y únicas para los aficionados de Pokémon en todo el mundo.
 
-La API v2 de Pokémon fue elegida por su amplia gama de datos y su relevancia para el desarrollo de aplicaciones relacionadas con Pokémon, como Pokédex digitales, juegos de estrategia, y herramientas de análisis competitivo.
+## Características del Proyecto
 
-## Diseño y Navegación
+- **Diseño y Navegación:** Utilización de CSS para estilos atractivos y responsivos, e implementación de React Router para una navegación fluida entre diferentes secciones de la aplicación.
+- **Integración de la API:** Uso de peticiones HTTP (con Fetch API o Axios, según se prefiera) para obtener datos de la API de Pokémon.
+- **Presentación de Datos:** Los datos de la API se presentan de manera organizada y comprensible en la interfaz de usuario.
+- **Funcionalidades Adicionales:** Implementación de características adicionales según la naturaleza de la API, como sistemas de búsqueda y filtrado.
 
-- La interfaz de usuario está diseñada con CSS para ser atractiva y responsiva.
-- Implementa React Router para una navegación fluida entre diferentes secciones de la aplicación.
+## Iniciando el Proyecto
 
-## Integración de la API
+Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
-- Utiliza Axios para realizar peticiones HTTP a la API.
-- Presenta los datos de la API de forma organizada y comprensible en la interfaz de usuario.
-- Explora diferentes tipos de datos proporcionados por la API, como imágenes, texto, y listas.
+1. **Clonar el Repositorio:**
+   Clona el repositorio a tu máquina local con el siguiente comando:
 
-## Funcionalidades Adicionales (Opcionales)
 
-Dependiendo de los requisitos, el proyecto puede incluir funcionalidades adicionales para mejorar la experiencia del usuario, como sistemas de búsqueda, filtros, comparaciones entre Pokémon, etc.
+2. **Instalar Dependencias:**
+Navega a la carpeta del proyecto y ejecuta `npm install` para instalar todas las dependencias necesarias.
+
+
+3. **Ejecutar el Proyecto:**
+Inicia el proyecto en modo de desarrollo con `npm run dev`. Esto iniciará el servidor de desarrollo en `http://localhost:3000`.
 
 ## Despliegue
 
-El proyecto está desplegado en [nombre de la plataforma de alojamiento], facilitando el acceso a la aplicación desde cualquier lugar.
+El proyecto puede ser desplegado en plataformas como GitHub Pages, Vercel, Netlify, etc., para permitir un acceso fácil y global.
 
----
-
-Este proyecto ofrece una experiencia emocionante para explorar el mundo de Pokémon a través de una aplicación web moderna y funcional, aprovechando las tecnologías y prácticas de desarrollo web actuales.
+## Elaborado por:
+Ricardo Rivadeneira, Jose Imbaquinga
 
