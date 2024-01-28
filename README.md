@@ -18,7 +18,7 @@ El API v2 de Pokémon es una interfaz de programación de aplicaciones (API) pro
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. **Clonar el Repositorio:**
-   Clona el repositorio a tu máquina local con el siguiente comando:
+   Clona el repositorio o descarga el código completo en tu máquina.
 
 
 2. **Instalar Dependencias:**
