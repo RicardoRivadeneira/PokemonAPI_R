@@ -30,7 +30,7 @@ Inicia el proyecto en modo de desarrollo con `npm run dev`. Esto iniciará el se
 
 ## Despliegue
 
-El proyecto puede ser desplegado en plataformas como GitHub Pages, Vercel, Netlify, etc., para permitir un acceso fácil y global.
+El proyecto fue desplegado en Vercel, por medio de este link puedes visitar la página e interctuar con ella: https://pokemon-api-r.vercel.app/.
 
 ## Elaborado por:
 Ricardo Rivadeneira, Jose Imbaquinga
